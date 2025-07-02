@@ -1,0 +1,23 @@
+{
+  "name": "cropper-js-package-path-issue",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/miguelaenlle/cropper-js-package-path-issue#readme",
+  "bugs": {
+    "url": "https://github.com/miguelaenlle/cropper-js-package-path-issue/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelaenlle/cropper-js-package-path-issue.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cropperjs": "^2.0.0"
+  }
+}
