@@ -10,12 +10,7 @@ Adjusting this to `./dist/cropper.raw.js` fixes the issue.
 Also, adding `"./package.json": "./package.json"` to the exports ensures `require('cropperjs/package.json')` (or `import pkg from 'cropperjs/package.json'`) will resolve correctly, making CropperJS's metadata (version, author, license, etc.) available to consumers and tooling.
 
 # Demo Video
-
-<!-- Embed the MP4 as a video with controls -->
-<video controls width="640" height="360">
-  <source src="./assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/64e8fc91-15fc-4fbf-8cc0-37731b80d377
 
 # Steps to reproduce
 1. Clone this repository, and navigate to `cropper-js-package-path-issue` in your terminal.
